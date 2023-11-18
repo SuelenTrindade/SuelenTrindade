@@ -1,6 +1,6 @@
 # Hi there, welcome to my Github 👋 
 
-My name is Suelen Stefanni S. Trindade, I am from São Paulo, Brazil.<br>
+My name is Suelen Stefanni da Silva Trindade, I am from São Paulo, Brazil.<br>
 I am an studant enthusiastic developer with a strong interest in technology and programming. I have a passion for solving complex problems and creating innovative solutions that add value to users and the business. I am highly motivated, self-taught, and always eager to learn new things.
 
 
