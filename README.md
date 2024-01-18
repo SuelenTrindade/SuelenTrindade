@@ -8,7 +8,7 @@ https://github.com/SuelenTrindade/Blog-Curricular
 
 
 
-  <summary>Click to see my Github stats and Projects. 🔭</summary>
+  <summary>My Github stats and Projects. 🔭</summary>
    <br>
    
 <div align="center">  
